@@ -31,7 +31,7 @@
         <commons-fileupload>1.3.2</commons-fileupload>
 
         <!-- MYSQL -->
-        <mysql.version>5.1.29</mysql.version>
+        <mysql.version>8.0.16</mysql.version>
 
         <!-- POSTGRESQL -->
         <postgre.version>9.3-1100-jdbc41</postgre.version>
